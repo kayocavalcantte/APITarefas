@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S0sL5fSoG72B4XEhojGCG2g8AbKNTKz2zPoqj3iKFAc=",
+  "Source": "APITarefas",
+  "BasePath": "_content/APITarefas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

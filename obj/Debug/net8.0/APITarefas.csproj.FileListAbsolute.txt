@@ -1,0 +1,296 @@
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\appsettings.Development.json
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\appsettings.json
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.staticwebassets.endpoints.json
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.exe
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.deps.json
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.runtimeconfig.json
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.pdb
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Azure.Core.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Azure.Identity.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Dapper.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Humanizer.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.ClientModel.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.CodeDom.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Kayo\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.csproj.AssemblyReference.cache
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.AssemblyInfoInputs.cache
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.AssemblyInfo.cs
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.csproj.CoreCompileInputs.cache
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.sourcelink.json
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\scopedcss\bundle\APITarefas.styles.css
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.APITarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.APITarefas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.build.APITarefas.props
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APITarefas.props
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APITarefas.props
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.csproj.Up2Date
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.dll
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\refint\APITarefas.dll
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.pdb
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.genruntimeconfig.cache
+C:\Kayo\APITarefas\APITarefas\obj\Debug\net8.0\ref\APITarefas.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\appsettings.Development.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\appsettings.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.staticwebassets.endpoints.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.exe
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.deps.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.runtimeconfig.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\APITarefas.pdb
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Azure.Core.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Azure.Identity.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Dapper.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Humanizer.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.ClientModel.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.CodeDom.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.csproj.AssemblyReference.cache
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.AssemblyInfoInputs.cache
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.AssemblyInfo.cs
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.csproj.CoreCompileInputs.cache
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\scopedcss\bundle\APITarefas.styles.css
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.build.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.development.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.APITarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.APITarefas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.build.APITarefas.props
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APITarefas.props
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APITarefas.props
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.csproj.Up2Date
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\refint\APITarefas.dll
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.pdb
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\APITarefas.genruntimeconfig.cache
+C:\Estudos Backend\APITarefas\APITarefas\APITarefas\obj\Debug\net8.0\ref\APITarefas.dll

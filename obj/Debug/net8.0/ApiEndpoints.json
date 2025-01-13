@@ -1,0 +1,250 @@
+[
+  {
+    "ContainingType": "APITarefas.Controllers.AtividadeController",
+    "Method": "CreateAtividade",
+    "RelativePath": "api/Atividade/CreateAtividade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "atividadeCreateDTO",
+        "Type": "APITarefas.Dtos.Atividade.AtividadeCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.AtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.AtividadeController",
+    "Method": "DeletarAtividade",
+    "RelativePath": "api/Atividade/DeletarAtividade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAtividade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.AtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.AtividadeController",
+    "Method": "EditarAtividade",
+    "RelativePath": "api/Atividade/EditarAtividade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "atividadeEditDTO",
+        "Type": "APITarefas.Dtos.Atividade.AtividadeEditDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.AtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.AtividadeController",
+    "Method": "GetAtividadeId",
+    "RelativePath": "api/Atividade/GetAtividadeId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAtividade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.AtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.AtividadeController",
+    "Method": "GetAtividades",
+    "RelativePath": "api/Atividade/GetAtividades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[System.Collections.Generic.List\u00601[[APITarefas.Models.AtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.TipoAtividadeController",
+    "Method": "CreateTipoAtividade",
+    "RelativePath": "api/TipoAtividade/CreateTipoAtividade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoAtividadeCreateDTO",
+        "Type": "APITarefas.Dtos.TipoAtividade.TipoAtividadeCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.TipoAtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.TipoAtividadeController",
+    "Method": "DeletarTipoAtividade",
+    "RelativePath": "api/TipoAtividade/DeletarTipoAtividade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAtividade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.TipoAtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.TipoAtividadeController",
+    "Method": "EditarTipoAtividade",
+    "RelativePath": "api/TipoAtividade/EditarTipoAtividade",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoAtividadeEditDTO",
+        "Type": "APITarefas.Dtos.TipoAtividade.TipoAtividadeEditDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.TipoAtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.TipoAtividadeController",
+    "Method": "GetTipoAtividade",
+    "RelativePath": "api/TipoAtividade/GetTipoAtividade",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.TipoAtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "APITarefas.Controllers.TipoAtividadeController",
+    "Method": "GetTipoAtividadeId",
+    "RelativePath": "api/TipoAtividade/GetTipoAtividadeId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAtividade",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "APITarefas.Models.ResponseModel\u00601[[APITarefas.Models.TipoAtividadeModel, APITarefas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
